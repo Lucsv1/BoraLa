@@ -1,3 +1,10 @@
+
+# Bora-Junto-
+Site no qual é possivel compartilhar sua viagem com outras pessoas, fazendo com que as pessoas consigam viajar de uma maneira muito facil e barata
+
+As telas de login estao funcionando, API funcionando, utulizando o useForm , utilizando varias components importados do react
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
